@@ -1,4 +1,7 @@
 # Secret's NEMO Fork
+
+# Discontinued
+
 Upstream code is copyrighted by @MStr3am (NeoMind).
 
 Secret's update is copyrighted by Secret and released under the MIT license.
